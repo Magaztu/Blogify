@@ -1,5 +1,6 @@
 ## Blogify
 Name's all you've gotta know
+-> I'll make this my personal website as well (or at least contain a page with a 'ABOUT ME' section...)!
 
 ## Why tho?
 This will also work as my -personal- blog page to chitchat, research and expand on topics of my interest.
