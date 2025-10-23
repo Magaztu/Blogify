@@ -4,6 +4,7 @@ Name's all you've gotta know
 
 ## Why tho?
 This will also work as my -personal- blog page to chitchat, research and expand on topics of my interest.
+Also it's cool to have a introductory web page.
 
 ## What will I learnk with this?
 Working with AI, TailWindCSSl, etc. to build my very own blog engine.
