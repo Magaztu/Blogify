@@ -8,6 +8,9 @@ Also it's cool to have a introductory web page.
 
 ## What will I learnk with this?
 Working with AI, TailWindCSSl, etc. to build my very own blog engine.
+(Planning on inserting some kind of AI interaction).
+
+Since this project is using [], this also means it's a full stack implementation.
 
 ## Current Topics I wanna talk 'bout
 - Our path to AI, from expert systems to sophisticated "thinkers"
