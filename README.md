@@ -15,3 +15,4 @@ Since this project is using *[Next.JS]*, this also means it's a full stack imple
 ## Current Topics I wanna talk 'bout
 - Our path to AI, from expert systems to sophisticated "thinkers"
 - Succession of processes, is there a better way to order them?
+- MCP (Model Context Protocol): Use cases, SDK tutorial and examples.
