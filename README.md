@@ -16,3 +16,6 @@ Since this project is using *[Next.JS]*, this also means it's a full stack imple
 - Our path to AI, from expert systems to sophisticated "thinkers"
 - Succession of processes, is there a better way to order them?
 - MCP (Model Context Protocol): Use cases, SDK tutorial and examples.
+
+# Deployment
+Next.js' template seems to have some association with Vercel, so I'm planning on deploying the blog there (as of now).
