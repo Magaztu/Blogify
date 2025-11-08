@@ -1,5 +1,6 @@
 import Sidebar from "@/components/Sidebar";
 import './globals.css';
+import { useMDXComponents } from "./mdx-components";
 
 export default function RootLayout({
   children,
